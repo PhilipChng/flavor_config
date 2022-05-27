@@ -1,6 +1,6 @@
 name: flavor_config
 description: Dart package which manages the project flavors.
-version: 1.0.0+1
+version: 1.0.1+2
 publish_to: none
 
 environment:
@@ -8,4 +8,4 @@ environment:
 
 dev_dependencies:
   test: ^1.21.1
-  very_good_analysis: ^2.4.0
+  very_good_analysis: ^3.0.0
